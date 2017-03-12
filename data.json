@@ -1,0 +1,3519 @@
+
+
+{
+   "@year": "2007",
+   "@task": "main",
+   "target": [
+      {
+         "@id": "216",
+         "@text": "Paul Krugman",
+         "qa": [
+            {
+               "q": {
+                  "@id": "216.1",
+                  "#text": "For which newspaper does Krugman write?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.2",
+                  "#text": "At which university does Krugman teach?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.3",
+                  "#text": "From which university did he receive his doctorate?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.4",
+                  "#text": "What is Krugman's academic specialty?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.5",
+                  "#text": "What prize originating in Spain has Krugman won?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.6",
+                  "#text": "What are titles of books written by Krugman?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.7",
+                  "#text": "What persons has Krugman criticized in his op-ed columns?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "216.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "217",
+         "@text": "Jay-Z",
+         "qa": [
+            {
+               "q": {
+                  "@id": "217.1",
+                  "#text": "What company produces his records?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.2",
+                  "#text": "What is his real name?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.3",
+                  "#text": "Who is he planning to marry?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.4",
+                  "#text": "Which company is he president of?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.5",
+                  "#text": "Where did he grow up?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.6",
+                  "#text": "What are titles of albums featuring Jay-Z?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "217.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "218",
+         "@text": "impressionist Darrell Hammond",
+         "qa": [
+            {
+               "q": {
+                  "@id": "218.1",
+                  "#text": "How old is Darrell Hammond?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.2",
+                  "#text": "From which university did he graduate?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.3",
+                  "#text": "What is his annual income?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.4",
+                  "#text": "On what TV show does Hammond regularly appear?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.5",
+                  "#text": "His shows appear on which network?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.6",
+                  "#text": "On what Comedy Central program was Hammond featured?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.7",
+                  "#text": "Which people has he impersonated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "218.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "219",
+         "@text": "Iraqi defector Curveball",
+         "qa": [
+            {
+               "q": {
+                  "@id": "219.1",
+                  "#text": "What year did Curveball defect?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.2",
+                  "#text": "What was Curveball's profession?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.3",
+                  "#text": "What is Curveball's real name?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.4",
+                  "#text": "Which intelligence service employed Curveball?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.5",
+                  "#text": "Which US government officials accepted his claims regarding Iraqi weapons labs?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.6",
+                  "#text": "Where does Curveball now live?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "219.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "220",
+         "@text": "International Management Group (IMG)",
+         "qa": [
+            {
+               "q": {
+                  "@id": "220.1",
+                  "#text": "Who founded the firm?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.2",
+                  "#text": "In what year was the firm founded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.3",
+                  "#text": "What company acquired IMG in 2004?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.4",
+                  "#text": "Who are members of the board of the IMG?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.5",
+                  "#text": "Who is the head of the IMG golf division in North America?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.6",
+                  "#text": "What IMG agent represents Vijay Singh?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.7",
+                  "#text": "What other sport stars are represented by IMG?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "220.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "221",
+         "@text": "U.S. Mint",
+         "qa": [
+            {
+               "q": {
+                  "@id": "221.1",
+                  "#text": "Where is the Mint headquartered?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.2",
+                  "#text": "What year was the Mint established?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.3",
+                  "#text": "The Mint is part of which cabinet department?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.4",
+                  "#text": "Who is director of the Mint?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.5",
+                  "#text": "Who many dimes does the Mint produce each month?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.6",
+                  "#text": "What name is given to the coin honoring the Lewis and Clark expedition?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.7",
+                  "#text": "Name people who have appeared on the Mint's coins."
+               }
+            },
+            {
+               "q": {
+                  "@id": "221.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "222",
+         "@text": "3M",
+         "qa": [
+            {
+               "q": {
+                  "@id": "222.1",
+                  "#text": "When was 3M founded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.2",
+                  "#text": "Where is the company based?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.3",
+                  "#text": "Who is the CEO?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.4",
+                  "#text": "Who was his predecessor as 3M CEO?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.5",
+                  "#text": "What does 3M stand for?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.6",
+                  "#text": "What is 3M's web address?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.7",
+                  "#text": "What brand name products does 3M manufacture?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "222.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "223",
+         "@text": "Merrill Lynch & Co.",
+         "qa": [
+            {
+               "q": {
+                  "@id": "223.1",
+                  "#text": "Who is the chief executive?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.2",
+                  "#text": "What is Merrill Lynch's prime business?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.3",
+                  "#text": "Where is Merrill Lynch headquartered?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.4",
+                  "#text": "On which street is Merrill Lynch headquarters located?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.5",
+                  "#text": "By what other name is the company known?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.6",
+                  "#text": "Name persons involved in law suits with Merrill Lynch."
+               }
+            },
+            {
+               "q": {
+                  "@id": "223.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "224",
+         "@text": "WWE",
+         "qa": [
+            {
+               "q": {
+                  "@id": "224.1",
+                  "#text": "Who is the chairman of WWE?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.2",
+                  "#text": "Who is the chief executive of WWE?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.3",
+                  "#text": "Where is WWE headquartered?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.4",
+                  "#text": "What is \"WWE\" short for?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.5",
+                  "#text": "WWE evolved from what earlier organization?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.6",
+                  "#text": "What cable network airs WWE?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.7",
+                  "#text": "What wrestlers have appeared in WWE events?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "224.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "225",
+         "@text": "Sago Mine disaster",
+         "qa": [
+            {
+               "q": {
+                  "@id": "225.1",
+                  "#text": "On what date did the disaster occur?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.2",
+                  "#text": "Who was the sole survivor?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.3",
+                  "#text": "What company owned the Sago Mine?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.4",
+                  "#text": "How many miners died in the disaster?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.5",
+                  "#text": "In what state was the Sago mine?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.6",
+                  "#text": "What organization investigated the disaster?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.7",
+                  "#text": "Who were victims of the disaster?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "225.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "226",
+         "@text": "Harriet Miers withdraws nomination to Supreme Court",
+         "qa": [
+            {
+               "q": {
+                  "@id": "226.1",
+                  "#text": "On what date did she withdraw her nomination?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.2",
+                  "#text": "On what date was she nominated for the post?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.3",
+                  "#text": "Whose place would she have taken on the Supreme Court?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.4",
+                  "#text": "Who nominated Miers for the post?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.5",
+                  "#text": "What criterion did this person cite in nominating Miers?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.6",
+                  "#text": "How old is Harriet Miers?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.7",
+                  "#text": "What Republican senators supported the nomination?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "226.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "227",
+         "@text": "Robert Blake criminal trial",
+         "qa": [
+            {
+               "q": {
+                  "@id": "227.1",
+                  "#text": "Who was Blake accused of murdering?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.2",
+                  "#text": "On what date did the court begin screening potential jurors?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.3",
+                  "#text": "On what date did the trial end?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.4",
+                  "#text": "Who was the judge in the trial?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.5",
+                  "#text": "What was the verdict in the trial?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.6",
+                  "#text": "Which attorney was the last prosecutor?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.7",
+                  "#text": "Who were witnesses during the trial?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "227.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "228",
+         "@text": "March Madness 2006",
+         "qa": [
+            {
+               "q": {
+                  "@id": "228.1",
+                  "#text": "How long does the Madness last?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.2",
+                  "#text": "What is another slang expression for the Madness?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.3",
+                  "#text": "When is the concluding night of the Madness?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.4",
+                  "#text": "What expression describes the Madness' semifinals?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.5",
+                  "#text": "How many teams compete in the Madness?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.6",
+                  "#text": "What head coaches had teams in the Madness?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "228.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "229",
+         "@text": "first partial face transplant",
+         "qa": [
+            {
+               "q": {
+                  "@id": "229.1",
+                  "#text": "In what city was the operation performed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.2",
+                  "#text": "What was the age of the recipient?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.3",
+                  "#text": "What was the name of the recipient?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.4",
+                  "#text": "On what date was the surgery performed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.5",
+                  "#text": "Who supervised the transplant?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.6",
+                  "#text": "What was the cause of the recipient's facial problem?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.7",
+                  "#text": "What individuals with professional experience in medicine or ethics commented unfavorably on the procedure?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "229.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "230",
+         "@text": "AMT",
+         "qa": [
+            {
+               "q": {
+                  "@id": "230.1",
+                  "#text": "What is the expansion of \"AMT\"?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.2",
+                  "#text": "On what IRS tax form is the AMT calculation done?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.3",
+                  "#text": "In what year was the AMT added to the Tax Code?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.4",
+                  "#text": "What is the AMT exemption amount for a single taxpayer in 2006?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.5",
+                  "#text": "What does President Bush want to do to the AMT?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.6",
+                  "#text": "Which Congress persons want to change the AMT?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "230.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "231",
+         "@text": "USS Abraham Lincoln",
+         "qa": [
+            {
+               "q": {
+                  "@id": "231.1",
+                  "#text": "What is the abbreviated ship designation for the USS Abraham Lincoln?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.2",
+                  "#text": "On what date was the USS Abraham Lincoln commissioned?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.3",
+                  "#text": "Where is the USS Abraham Lincoln home ported?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.4",
+                  "#text": "On what date did President Bush visit the USS Abraham Lincoln?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.5",
+                  "#text": "Who is the commander of the USS Abraham Lincoln?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.6",
+                  "#text": "What types of aircraft can fly from the USS Abraham Lincoln?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "231.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "232",
+         "@text": "Dulles Airport",
+         "qa": [
+            {
+               "q": {
+                  "@id": "232.1",
+                  "#text": "What is the 3-character airport code for Dulles?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.2",
+                  "#text": "What is the approved designation for Dulles?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.3",
+                  "#text": "In what state is Dulles located?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.4",
+                  "#text": "Who is the airport named after?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.5",
+                  "#text": "Which authority runs the airport?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.6",
+                  "#text": "Which airlines use Dulles?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "232.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "233",
+         "@text": "comic strip Blondie",
+         "qa": [
+            {
+               "q": {
+                  "@id": "233.1",
+                  "#text": "Who was the creator of the strip?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "233.2",
+                  "#text": "Blondie is syndicated by what organization?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "233.3",
+                  "#text": "Name characters in the strip besides Blondie."
+               }
+            },
+            {
+               "q": {
+                  "@id": "233.4",
+                  "#text": "What is the last name of the character Blondie?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "233.5",
+                  "#text": "What is the name of Blondie's father-in-law?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "233.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "234",
+         "@text": "Irving Berlin",
+         "qa": [
+            {
+               "q": {
+                  "@id": "234.1",
+                  "#text": "In what country was Irving Berlin born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.2",
+                  "#text": "How many songs did Irving Berlin compose?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.3",
+                  "#text": "What was Irving Berlin's first big hit?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.4",
+                  "#text": "List some of Berlin's compositions."
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.5",
+                  "#text": "When did Irving Berlin die?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.6",
+                  "#text": "How did Irving Berlin die?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "234.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "235",
+         "@text": "Susan Butcher",
+         "qa": [
+            {
+               "q": {
+                  "@id": "235.1",
+                  "#text": "In what year was Susan Butcher born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.2",
+                  "#text": "How many times did Susan Butcher run the Iditarod Race?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.3",
+                  "#text": "How many times did Susan Butcher win the Iditarod Race?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.4",
+                  "#text": "List the years that she won the Iditarod Race."
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.5",
+                  "#text": "Where does she live?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.6",
+                  "#text": "On what date was she diagnosed with acute myelogenous leukemia?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "235.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "236",
+         "@text": "Boston Pops",
+         "qa": [
+            {
+               "q": {
+                  "@id": "236.1",
+                  "#text": "Who is the conductor of the Boston Pops?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.2",
+                  "#text": "List previous conductors of the Boston Pops."
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.3",
+                  "#text": "What is the annual salary of the Boston Pops conductor?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.4",
+                  "#text": "Who is the manager of the Boston Pops?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.5",
+                  "#text": "What is the concert venue of the Boston Pops?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.6",
+                  "#text": "How many concerts did the Boston Pops hold there in 2005?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "236.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "237",
+         "@text": "Cunard Cruise Lines",
+         "qa": [
+            {
+               "q": {
+                  "@id": "237.1",
+                  "#text": "What corporation owns Cunard Cruise Lines?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.2",
+                  "#text": "In what city is this corporation based?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.3",
+                  "#text": "Who is Cunard's president and managing director?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.4",
+                  "#text": "What is the name of the largest ship in Cunard Cruise Lines?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.5",
+                  "#text": "How many passengers have traveled with Cunard Cruise Lines?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.6",
+                  "#text": "List the ships in Cunard Cruise Lines."
+               }
+            },
+            {
+               "q": {
+                  "@id": "237.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "238",
+         "@text": "2004 Baseball World Series",
+         "qa": [
+            {
+               "q": {
+                  "@id": "238.1",
+                  "#text": "Who won the 2004 World Series?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "238.2",
+                  "#text": "What team was defeated in the 2004 World Series?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "238.3",
+                  "#text": "How many years transpired between world championships for the winning team?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "238.4",
+                  "#text": "Who drove in the deciding runs in the first game of the 2004 World Series?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "238.5",
+                  "#text": "List some of the stars in the 2004 World Series."
+               }
+            },
+            {
+               "q": {
+                  "@id": "238.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "239",
+         "@text": "game show Jeopardy",
+         "qa": [
+            {
+               "q": {
+                  "@id": "239.1",
+                  "#text": "On what date did Jeopardy air for the first time?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "239.2",
+                  "#text": "Who was the first host of Jeopardy?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "239.3",
+                  "#text": "Who is the current host of Jeopardy?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "239.4",
+                  "#text": "What Jeopardy contestant is the biggest money-winner in television game show history?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "239.5",
+                  "#text": "List some contestants on Jeopardy."
+               }
+            },
+            {
+               "q": {
+                  "@id": "239.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "240",
+         "@text": "Harry Potter and the Goblet of Fire",
+         "qa": [
+            {
+               "q": {
+                  "@id": "240.1",
+                  "#text": "Who is the author of \"Harry Potter and the Goblet of Fire\"?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "240.2",
+                  "#text": "What is the number for \"Harry Potter and the Goblet of Fire\" in the series of Harry Potter books?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "240.3",
+                  "#text": "Into how many languages has \"Harry Potter and the Goblet of Fire\" been translated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "240.4",
+                  "#text": "What is the name of the Wizarding Game in \"Harry Potter and the Goblet of Fire\"?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "240.5",
+                  "#text": "List names of characters in \"Harry Potter and the Goblet of Fire\"."
+               }
+            },
+            {
+               "q": {
+                  "@id": "240.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "241",
+         "@text": "Jasper Fforde",
+         "qa": [
+            {
+               "q": {
+                  "@id": "241.1",
+                  "#text": "What was author Jasper Fforde's first book?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.2",
+                  "#text": "What year was his first book written?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.3",
+                  "#text": "What company published his first book?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.4",
+                  "#text": "How old was Jasper Fforde when he wrote his first Thursday Next novel?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.5",
+                  "#text": "How many books did he write in the Thursday Next series?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.6",
+                  "#text": "What books did Jasper Fforde write?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "241.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "242",
+         "@text": "Guinness Brewery",
+         "qa": [
+            {
+               "q": {
+                  "@id": "242.1",
+                  "#text": "Who was the founder of the Guinness Brewery?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.2",
+                  "#text": "In what year was the Guinness Brewery founded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.3",
+                  "#text": "Who was the Guinness Brewmaster in 2006?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.4",
+                  "#text": "How many pints of stout a day does Guinness sell in Ireland?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.5",
+                  "#text": "What is the percent of alcohol by volume in Guinness Stout?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.6",
+                  "#text": "What other Breweries make stout beers?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "242.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "243",
+         "@text": "2005 London terror bombing attacks",
+         "qa": [
+            {
+               "q": {
+                  "@id": "243.1",
+                  "#text": "What were the names of bombing suspects in the London terrorist attacks in 2005?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "243.2",
+                  "#text": "On what date were the first London terror bombing attacks of 2005 carried out?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "243.3",
+                  "#text": "On what date was the second London terror bombing attack?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "243.4",
+                  "#text": "How many bombers were killed in the London terror bombing attacks?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "243.5",
+                  "#text": "Who many people were killed in total in the attacks?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "243.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "244",
+         "@text": "Rubik's Cube Competitions",
+         "qa": [
+            {
+               "q": {
+                  "@id": "244.1",
+                  "#text": "Who invented the Rubik's Cube?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.2",
+                  "#text": "Who founded the International Rubik's Cube Competition in the United States?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.3",
+                  "#text": "What was the world record time set in the 2006 competition?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.4",
+                  "#text": "What was the previous world record time?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.5",
+                  "#text": "Who is considered to be the \"fastest Rubik's Cube solver on the planet\"?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.6",
+                  "#text": "Who have set world records in solving Rubik's Cubes?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "244.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "245",
+         "@text": "hybrid cars",
+         "qa": [
+            {
+               "q": {
+                  "@id": "245.1",
+                  "#text": "How many new hybrid vehicles were sold in the United States in 2004?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "245.2",
+                  "#text": "Which automaker was the first to introduce a hybrid car?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "245.3",
+                  "#text": "In what year was the Prius concept car introduced?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "245.4",
+                  "#text": "What percentage of new car sales in the U.S. in 2004 was for hybrid cars?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "245.5",
+                  "#text": "Which automobile manufacturers are producing hybrid vehicles?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "245.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "246",
+         "@text": "Michael Brown",
+         "qa": [
+            {
+               "q": {
+                  "@id": "246.1",
+                  "#text": "What positions did Michael Brown hold before becoming head of FEMA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.2",
+                  "#text": "Who preceded Brown as head of FEMA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.3",
+                  "#text": "When did Brown start working at FEMA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.4",
+                  "#text": "On what date did Brown resign as head of FEMA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.5",
+                  "#text": "Who was appointed as the acting head of FEMA when Brown resigned?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.6",
+                  "#text": "Which government department was FEMA under at the time of Hurricane Katrina?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "246.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "247",
+         "@text": "Ella Fitzgerald",
+         "qa": [
+            {
+               "q": {
+                  "@id": "247.1",
+                  "#text": "What was Ella Fitzgerald's first hit record?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.2",
+                  "#text": "How old was Ella Fitzgerald when she made her first hit record?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.3",
+                  "#text": "Who was Ella Fitzgerald's husband?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.4",
+                  "#text": "What singers made recordings with Ella Fitzgerald?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.5",
+                  "#text": "What was the name of Ella Fitzgerald's Christmas record album?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.6",
+                  "#text": "In 2005 Ella Fitzgerald was inducted into what hall of fame?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.7",
+                  "#text": "What composers wrote songs that Ella Fitzgerald recorded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "247.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "248",
+         "@text": "CSPI",
+         "qa": [
+            {
+               "q": {
+                  "@id": "248.1",
+                  "#text": "What does the abbreviation CSPI stand for?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.2",
+                  "#text": "What is the name of CSPI's newsletter?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.3",
+                  "#text": "Name officers of CSPI."
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.4",
+                  "#text": "What is the CSPI web site?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.5",
+                  "#text": "According to CSPI, which artificial sweetener is the safest?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.6",
+                  "#text": "What restaurant was praised by CSPI for putting nutrition information for all the items on its menus?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.7",
+                  "#text": "What restaurant chain was the subject of a complaint made by CSPI to the Food and Drug Administration?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "248.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "249",
+         "@text": "Fulbright Program",
+         "qa": [
+            {
+               "q": {
+                  "@id": "249.1",
+                  "#text": "What year was the Fulbright Program established?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.2",
+                  "#text": "What U.S. government entity sponsors the Fulbright Program?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.3",
+                  "#text": "What UN organization hosts internships under the Fulbright Program?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.4",
+                  "#text": "In what countries can Fulbright scholars be found?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.5",
+                  "#text": "How many grants does the Fulbright Program award each year?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.6",
+                  "#text": "How many times can a person get a Fulbright award?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.7",
+                  "#text": "What senator applied for and received a Fulbright but turned it down?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "249.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "250",
+         "@text": "publication of Danish cartoons of Mohammed",
+         "qa": [
+            {
+               "q": {
+                  "@id": "250.1",
+                  "#text": "What newspaper first published the cartoons?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.2",
+                  "#text": "How many cartoons were there?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.3",
+                  "#text": "In what countries were protests staged?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.4",
+                  "#text": "What earlier publication about Mohammed created protests and death threats?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.5",
+                  "#text": "What was the first U.S. newspaper to publish one of the cartoons?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.6",
+                  "#text": "What museum planned to exhibit the cartoons?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "250.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "251",
+         "@text": "Lyme disease",
+         "qa": [
+            {
+               "q": {
+                  "@id": "251.1",
+                  "#text": "In what city and state was Lyme disease first reported?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.2",
+                  "#text": "When was Lyme disease named?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.3",
+                  "#text": "What organism causes Lyme disease?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.4",
+                  "#text": "In what states is Lyme disease a problem?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.5",
+                  "#text": "What medications are used to treat Lyme disease?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.6",
+                  "#text": "What insect repellent works against the ticks that carry Lyme disease?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "251.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "252",
+         "@text": "American Girl dolls",
+         "qa": [
+            {
+               "q": {
+                  "@id": "252.1",
+                  "#text": "In what year were American Girl dolls first introduced?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.2",
+                  "#text": "Name the historical dolls."
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.3",
+                  "#text": "Which American Girl dolls have had TV movies made about them?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.4",
+                  "#text": "How much does an American Girl doll cost?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.5",
+                  "#text": "How many American Girl dolls have been sold?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.6",
+                  "#text": "What is the name of the American Girl store in New York?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.7",
+                  "#text": "What corporation owns the American Girl company?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "252.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "253",
+         "@text": "Kurt Weill",
+         "qa": [
+            {
+               "q": {
+                  "@id": "253.1",
+                  "#text": "What is the date of Kurt Weill's birth?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.2",
+                  "#text": "In what year did Kurt Weill die?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.3",
+                  "#text": "In what country was Kurt Weill born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.4",
+                  "#text": "What musicals did Kurt Weill write?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.5",
+                  "#text": "Who was Kurt Weill's wife?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.6",
+                  "#text": "With whom did Kurt Weill collaborate?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.7",
+                  "#text": "For which Kurt Weill song did Bobby Darin receive a Grammy award?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "253.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "254",
+         "@text": "House of Chanel",
+         "qa": [
+            {
+               "q": {
+                  "@id": "254.1",
+                  "#text": "Who founded the House of Chanel?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.2",
+                  "#text": "In what year was the company founded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.3",
+                  "#text": "Who is the president of the House of Chanel?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.4",
+                  "#text": "Who took over the House of Chanel in 1983?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.5",
+                  "#text": "What women have worn Chanel clothing to award ceremonies?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.6",
+                  "#text": "What museums have displayed Chanel clothing?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.7",
+                  "#text": "What Chanel creation is the top-selling fragrance in the world?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "254.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "255",
+         "@text": "British American Tobacco (BAT)",
+         "qa": [
+            {
+               "q": {
+                  "@id": "255.1",
+                  "#text": "Who is the chairman of BAT?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.2",
+                  "#text": "In what city are BAT's headquarters?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.3",
+                  "#text": "What brands of cigarettes does BAT manufacture?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.4",
+                  "#text": "How many people does BAT employ?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.5",
+                  "#text": "What companies has BAT owned?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.6",
+                  "#text": "What public health group did BAT help fund?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "255.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "256",
+         "@text": "Buffalo Soldiers",
+         "qa": [
+            {
+               "q": {
+                  "@id": "256.1",
+                  "#text": "When were the Buffalo Soldiers organized?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.2",
+                  "#text": "What ethnicity were the Buffalo Soldiers?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.3",
+                  "#text": "What part of the Soldiers' anatomy reminded the Indians of the buffalo?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.4",
+                  "#text": "Name members of the Buffalo Soldiers."
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.5",
+                  "#text": "In what year were the Buffalo Soldier regiments merged with the integrated army?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.6",
+                  "#text": "In what year were the Buffalo Soldier regiments disbanded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.7",
+                  "#text": "In which state did the Buffalo Soldiers protect National Parks?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "256.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "257",
+         "@text": "2005 DARPA Grand Challenge",
+         "qa": [
+            {
+               "q": {
+                  "@id": "257.1",
+                  "#text": "What does the acronym DARPA stand for?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.2",
+                  "#text": "In what city and state did the Challenge finals race take place?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.3",
+                  "#text": "How many vehicles took part in the Challenge?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.4",
+                  "#text": "What makes of vehicles participated in the Challenge, including semi-finals?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.5",
+                  "#text": "What was the make of the winning vehicle?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.6",
+                  "#text": "What was the name of the fuel the winner used?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.7",
+                  "#text": "At what government agency were the winning vehicles on display?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "257.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "258",
+         "@text": "2005 presidential election in Egypt",
+         "qa": [
+            {
+               "q": {
+                  "@id": "258.1",
+                  "#text": "On what date was the presidential election held?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.2",
+                  "#text": "What was the percentage of turnout for the election?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.3",
+                  "#text": "How many candidates ran for president?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.4",
+                  "#text": "Who won the presidential election?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.5",
+                  "#text": "What percentage of the votes did the winner receive?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.6",
+                  "#text": "How much did a poster of the winning candidate cost?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.7",
+                  "#text": "What international leaders sent or gave congratulations?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.8",
+                  "#text": "Which of the candidates was arrested for forgery?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "258.9",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "259",
+         "@text": "2005 World Snooker Championships",
+         "qa": [
+            {
+               "q": {
+                  "@id": "259.1",
+                  "#text": "In what city were the 2005 World Snooker Championships held?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.2",
+                  "#text": "In what building was the 2005 World Snooker Championships held?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.3",
+                  "#text": "In what month did the 2005 Snooker World Championship start?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.4",
+                  "#text": "Name the participants in the 2005 World Snooker Championships."
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.5",
+                  "#text": "Who won the 2005 Snooker World Championship?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.6",
+                  "#text": "How many World Snooker tournaments are there annually?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.7",
+                  "#text": "Name the World Snooker tournaments."
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.8",
+                  "#text": "Who is the reigning superstar of snooker?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "259.9",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "260",
+         "@text": "Teenage Mutant Ninja Turtles (TMNT)",
+         "qa": [
+            {
+               "q": {
+                  "@id": "260.1",
+                  "#text": "What were the names of characters in the TMNT stories?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.2",
+                  "#text": "How many Ninja Turtles were there?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.3",
+                  "#text": "What food did they eat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.4",
+                  "#text": "What television network carried TMNT?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.5",
+                  "#text": "In what year did the first TMNT movie come out?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.6",
+                  "#text": "Including the planned 2007 movie, how many TMNT movies have there been?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.7",
+                  "#text": "What state-of-the-art technique is being used for the newest TMNT movie?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "260.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "261",
+         "@text": "marsupials",
+         "qa": [
+            {
+               "q": {
+                  "@id": "261.1",
+                  "#text": "In what do marsupials keep their young?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.2",
+                  "#text": "What non-extinct animals are marsupials?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.3",
+                  "#text": "What is the largest meat-eating marsupial?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.4",
+                  "#text": "What marsupial is found outside of Australia?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.5",
+                  "#text": "What can be made from marsupial manure?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.6",
+                  "#text": "What cartoon character is based on a marsupial?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.7",
+                  "#text": "The extinct Tasmanian tiger is known by what other name?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "261.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "262",
+         "@text": "kumquat",
+         "qa": [
+            {
+               "q": {
+                  "@id": "262.1",
+                  "#text": "What type of produce is a kumquat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.2",
+                  "#text": "What is the genus of kumquat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.3",
+                  "#text": "What color is a kumquat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.4",
+                  "#text": "What is the diameter of a kumquat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.5",
+                  "#text": "Outside the US, in what countries can kumquat trees be found?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.6",
+                  "#text": "In which continent did Kumquat trees originate?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.7",
+                  "#text": "What holiday are kumquat trees associated with?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "262.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "263",
+         "@text": "Ayn Rand",
+         "qa": [
+            {
+               "q": {
+                  "@id": "263.1",
+                  "#text": "On what date was she born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.2",
+                  "#text": "What year did she come to the United States?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.3",
+                  "#text": "What school did she get her bachelor's degree from?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.4",
+                  "#text": "What is the name of the philosophy that she started?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.5",
+                  "#text": "What government officials have been influenced by this philosophy?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.6",
+                  "#text": "What were her fictional publications (including novels, novelettes, and plays)?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.7",
+                  "#text": "What was the name of her husband?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.8",
+                  "#text": "What year did she die?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "263.9",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "264",
+         "@text": "Alan Greenspan",
+         "qa": [
+            {
+               "q": {
+                  "@id": "264.1",
+                  "#text": "When was Alan Greenspan born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.2",
+                  "#text": "What school did he get his bachelor's degree from?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.3",
+                  "#text": "What federal organization was Mr. Greenspan chairman of?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.4",
+                  "#text": "When (month and year) was he first nominated to this position?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.5",
+                  "#text": "How long did he serve in this position?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.6",
+                  "#text": "Who has served longer in this position?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.7",
+                  "#text": "Who has been selected to be Mr. Greenspan's successor as chairman?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.8",
+                  "#text": "How many chairmen of this organization have there been since it was established in 1913?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.9",
+                  "#text": "What foreign countries did Mr. Greenspan visit while chairman?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "264.10",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "265",
+         "@text": "Mahmud (or Mahmood, Mahmoud) Ahmadinejad",
+         "qa": [
+            {
+               "q": {
+                  "@id": "265.1",
+                  "#text": "What country is Ahmadinejad president of?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.2",
+                  "#text": "In what town was he born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.3",
+                  "#text": "On what date was he born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.4",
+                  "#text": "He holds a Ph.D. in what field?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.5",
+                  "#text": "What foreign countries has he visited since his election to the presidency?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.6",
+                  "#text": "What other positions has he held in government?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "265.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "266",
+         "@text": "Rafik Hariri, former Lebanese Prime Minister",
+         "qa": [
+            {
+               "q": {
+                  "@id": "266.1",
+                  "#text": "When was Rafik Hariri born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.2",
+                  "#text": "To what religion did he belong (including sect)?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.3",
+                  "#text": "From what university did he get a degree?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.4",
+                  "#text": "At what time in the day was he assassinated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.5",
+                  "#text": "How many others were killed at the same time?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.6",
+                  "#text": "What country did the UN investigator, Detlev Mehlis, accuse of responsibility for Hariri's assassination?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.7",
+                  "#text": "How long did Hariri serve as prime minister, total?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.8",
+                  "#text": "What country other than Lebanon did he hold citizenship?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.9",
+                  "#text": "What countries offered condolences at his death?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "266.10",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "267",
+         "@text": "FISA Court",
+         "qa": [
+            {
+               "q": {
+                  "@id": "267.1",
+                  "#text": "What does the acronym FISA stand for?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.2",
+                  "#text": "In what year was the court established?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.3",
+                  "#text": "In 1990, how many wiretap applications were approved?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.4",
+                  "#text": "How long a term do FISA judges serve?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.5",
+                  "#text": "Under the original act, how many judges were to be on the court?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.6",
+                  "#text": "Name the judges serving on this court in November 2005."
+               }
+            },
+            {
+               "q": {
+                  "@id": "267.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "268",
+         "@text": "Israel evacuation of the Gaza Strip",
+         "qa": [
+            {
+               "q": {
+                  "@id": "268.1",
+                  "#text": "On what date was the evacuation of the settlers completed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.2",
+                  "#text": "How many settlers were evacuated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.3",
+                  "#text": "What is the average compensation paid for each evacuated family?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.4",
+                  "#text": "How many soldiers or police officers were used to carry out the evacuation?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.5",
+                  "#text": "Who contributed money to purchase the Gaza greenhouses and supporting equipment?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.6",
+                  "#text": "In the three months following the evacuation, how many rockets were fired at Israel from Gaza?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.7",
+                  "#text": "What were the settlements that were evacuated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "268.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "269",
+         "@text": "Pakistan earthquakes of October 2005",
+         "qa": [
+            {
+               "q": {
+                  "@id": "269.1",
+                  "#text": "On what date did this earthquake strike?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.2",
+                  "#text": "What countries were affected by this earthquake?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.3",
+                  "#text": "What was the final death toll from this earthquake?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.4",
+                  "#text": "What was the strength of this earthquake?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.5",
+                  "#text": "Where was the epicenter (latitude and longitude)?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.6",
+                  "#text": "What countries supplied aid?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "269.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "270",
+         "@text": "The Mars rovers, Spirit and Opportunity",
+         "qa": [
+            {
+               "q": {
+                  "@id": "270.1",
+                  "#text": "On what date did Opportunity land on Mars?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.2",
+                  "#text": "Who manages this mission?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.3",
+                  "#text": "What was the original plans for the mission length?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.4",
+                  "#text": "How many meters has Opportunity traveled on Mars?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.5",
+                  "#text": "What is the minimum power requirement per day for one of these rovers to function?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.6",
+                  "#text": "What named landmarks were visited by one of these rovers?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "270.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "271",
+         "@text": "Jon Bon Jovi",
+         "qa": [
+            {
+               "q": {
+                  "@id": "271.1",
+                  "#text": "What is Jon Bon Jovi's profession?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.2",
+                  "#text": "When was Bon Jovi born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.3",
+                  "#text": "Where was Bon Jovi born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.4",
+                  "#text": "What are some Bon Jovi hits?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.5",
+                  "#text": "In what movie did Bon Jovi star?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.6",
+                  "#text": "In how many concerts has Bon Jovi performed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "271.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "272",
+         "@text": "Barack Obama",
+         "qa": [
+            {
+               "q": {
+                  "@id": "272.1",
+                  "#text": "In what US state was Barack Obama born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.2",
+                  "#text": "On what date was Obama born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.3",
+                  "#text": "What year was Obama elected to the US Senate?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.4",
+                  "#text": "Whom did Obama defeat for the US Senate seat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.5",
+                  "#text": "What position did Obama hold before becoming US senator?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.6",
+                  "#text": "In which US states has Barack Obama lived?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "272.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "273",
+         "@text": "Rush Limbaugh",
+         "qa": [
+            {
+               "q": {
+                  "@id": "273.1",
+                  "#text": "How big is Limbaugh's listening audience?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.2",
+                  "#text": "How many markets carry Limbaugh's radio show?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.3",
+                  "#text": "When was Limbaugh born?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.4",
+                  "#text": "How many times has Limbaugh been married?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.5",
+                  "#text": "What drugs did Limbaugh take for back pain?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.6",
+                  "#text": "What books has Limbaugh written?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "273.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "274",
+         "@text": "Exxon Mobile Corp",
+         "qa": [
+            {
+               "q": {
+                  "@id": "274.1",
+                  "#text": "Where is Exxon Mobile headquartered?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.2",
+                  "#text": "In what year did Exxon and Mobile merge?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.3",
+                  "#text": "Who is the Exxon Mobile CEO?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.4",
+                  "#text": "In what countries has Exxon Mobile explored for oil?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.5",
+                  "#text": "How much oil was spilled by the Exxon tanker Valdez?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.6",
+                  "#text": "What was the cost of the oil clean-up?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.7",
+                  "#text": "On what date did the oil spill occur?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "274.8",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "275",
+         "@text": "Dixie Chicks",
+         "qa": [
+            {
+               "q": {
+                  "@id": "275.1",
+                  "#text": "What type of music is performed by the Dixie Chicks?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "275.2",
+                  "#text": "What are the names of the Dixie Chicks?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "275.3",
+                  "#text": "The Dixie Chicks are from which state?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "275.4",
+                  "#text": "Which of the Dixie Chicks criticized President Bush?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "275.5",
+                  "#text": "List songs recorded by the Dixie Chicks."
+               }
+            },
+            {
+               "q": {
+                  "@id": "275.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "276",
+         "@text": "B-17 bomber",
+         "qa": [
+            {
+               "q": {
+                  "@id": "276.1",
+                  "#text": "What was the nickname given to the B-17 Bomber?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "276.2",
+                  "#text": "What company manufactured the B-17 bomber?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "276.3",
+                  "#text": "How many B-17's were built?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "276.4",
+                  "#text": "The B-17 bomber was used against which countries?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "276.5",
+                  "#text": "How many missions did the Memphis Belle fly?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "276.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "277",
+         "@text": "Boeing 777 aircraft",
+         "qa": [
+            {
+               "q": {
+                  "@id": "277.1",
+                  "#text": "How many engines does the Boeing 777 have?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.2",
+                  "#text": "What is the non-stop distance record established by the Boeing 777?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.3",
+                  "#text": "How many versions of the Boeing 777 are there?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.4",
+                  "#text": "Where is the Boeing 777 built?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.5",
+                  "#text": "What countries have placed orders to buy the Boeing 777?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.6",
+                  "#text": "How many passengers will the Boeing 777 carry?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "277.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "278",
+         "@text": "St. Peter's Basilica",
+         "qa": [
+            {
+               "q": {
+                  "@id": "278.1",
+                  "#text": "How many years did it take to build St. Peter's Basilica?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.2",
+                  "#text": "How tall is St. Peter's Basilica?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.3",
+                  "#text": "What Pope started the building of the basilica?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.4",
+                  "#text": "What Pope finished building St. Peter's?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.5",
+                  "#text": "What architects were involved in building St. Peter's?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.6",
+                  "#text": "Who built the basilica that previously stood at the same site as St. Peter's Basilica?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "278.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "279",
+         "@text": "Australian wine",
+         "qa": [
+            {
+               "q": {
+                  "@id": "279.1",
+                  "#text": "What is Australia's signature grape?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "279.2",
+                  "#text": "How much wine does Australia export to the U.S.?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "279.3",
+                  "#text": "Where does Australia rank in exports of wine?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "279.4",
+                  "#text": "What winery produces Yellowtail?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "279.5",
+                  "#text": "Name some of Australia's female winemakers."
+               }
+            },
+            {
+               "q": {
+                  "@id": "279.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "280",
+         "@text": "Angkor Wat temples",
+         "qa": [
+            {
+               "q": {
+                  "@id": "280.1",
+                  "#text": "In what country is Angkor Wat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.2",
+                  "#text": "How many monuments are there in Angkor Wat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.3",
+                  "#text": "How long did it take to build the temples?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.4",
+                  "#text": "What temples are at Angkor Wat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.5",
+                  "#text": "Which is the largest temple at Angkor Wat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.6",
+                  "#text": "How many people visit Angkor Wat annually?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "280.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "281",
+         "@text": "Joseph Steffen",
+         "qa": [
+            {
+               "q": {
+                  "@id": "281.1",
+                  "#text": "How old is Joseph Steffen?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.2",
+                  "#text": "What governor employed Steffen?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.3",
+                  "#text": "In what state was Steffen employed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.4",
+                  "#text": "How many state jobs did Steffen hold?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.5",
+                  "#text": "Who has employed Steffen?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.6",
+                  "#text": "Who was the target of rumors spread by Steffen?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "281.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "282",
+         "@text": "Orhan Pamuk",
+         "qa": [
+            {
+               "q": {
+                  "@id": "282.1",
+                  "#text": "What nationality is novelist Orhan Pamuk?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.2",
+                  "#text": "What is Pamuk's year of birth?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.3",
+                  "#text": "What is Pamuk's city of birth?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.4",
+                  "#text": "What awards has Pamuk won?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.5",
+                  "#text": "What are titles of Pamuk's works?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.6",
+                  "#text": "Into how many languages have Pamuk's works been translated?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "282.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "283",
+         "@text": "Habitat for Humanity",
+         "qa": [
+            {
+               "q": {
+                  "@id": "283.1",
+                  "#text": "In what year was Habitat for Humanity founded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.2",
+                  "#text": "Who was the founder of Habitat?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.3",
+                  "#text": "In what city and state are Habitat for Humanity International headquarters?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.4",
+                  "#text": "Who is Habitat for Humanity's most famous volunteer?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.5",
+                  "#text": "How many volunteers have contributed to building houses for Habitat for Humanity?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.6",
+                  "#text": "In what countries has Habitat for Humanity provided assistance abroad?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "283.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "284",
+         "@text": "CAFTA approval by U.S. Congress",
+         "qa": [
+            {
+               "q": {
+                  "@id": "284.1",
+                  "#text": "What is the full name for CAFTA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.2",
+                  "#text": "How many countries are included in CAFTA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.3",
+                  "#text": "When was CAFTA signed?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.4",
+                  "#text": "What was the deadline for implementation of CAFTA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.5",
+                  "#text": "When did the U.S. Congress approve CAFTA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.6",
+                  "#text": "What members of the U.S. House of Representatives opposed CAFTA?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "284.7",
+                  "#text": "Other"
+               }
+            }
+         ]
+      },
+      {
+         "@id": "285",
+         "@text": "Yeti",
+         "qa": [
+            {
+               "q": {
+                  "@id": "285.1",
+                  "#text": "In what year did Sir Edmund Hillary search for Yeti?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "285.2",
+                  "#text": "In what U.S. states have sightings of Yeti been reported?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "285.3",
+                  "#text": "What was the height of Yeti reported as sighted in Malaysia?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "285.4",
+                  "#text": "In what province and country were Yeti vocalizations recorded?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "285.5",
+                  "#text": "What other names have been used for Yeti?"
+               }
+            },
+            {
+               "q": {
+                  "@id": "285.6",
+                  "#text": "Other"
+               }
+            }
+         ]
+      }
+   ]
+}
+

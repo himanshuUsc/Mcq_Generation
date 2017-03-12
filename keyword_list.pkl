@@ -1,0 +1,142 @@
+(lp0
+S'Paul Krugman'
+p1
+aS'Jay-Z'
+p2
+aS'impressionist Darrell Hammond'
+p3
+aS'Iraqi defector Curveball'
+p4
+aS'International Management Group (IMG)'
+p5
+aS'U.S. Mint'
+p6
+aS'3M'
+p7
+aS'Merrill Lynch & Co.'
+p8
+aS'WWE'
+p9
+aS'Sago Mine disaster'
+p10
+aS'Harriet Miers withdraws nomination to Supreme Court'
+p11
+aS'Robert Blake criminal trial'
+p12
+aS'March Madness 2006'
+p13
+aS'first partial face transplant'
+p14
+aS'AMT'
+p15
+aS'USS Abraham Lincoln'
+p16
+aS'Dulles Airport'
+p17
+aS'comic strip Blondie'
+p18
+aS'Irving Berlin'
+p19
+aS'Susan Butcher'
+p20
+aS'Boston Pops'
+p21
+aS'Cunard Cruise Lines'
+p22
+aS'2004 Baseball World Series'
+p23
+aS'game show Jeopardy'
+p24
+aS'Harry Potter and the Goblet of Fire'
+p25
+aS'Jasper Fforde'
+p26
+aS'Guinness Brewery'
+p27
+aS'2005 London terror bombing attacks'
+p28
+aS"Rubik's Cube Competitions"
+p29
+aS'hybrid cars'
+p30
+aS'Michael Brown'
+p31
+aS'Ella Fitzgerald'
+p32
+aS'CSPI'
+p33
+aS'Fulbright Program'
+p34
+aS'publication of Danish cartoons of Mohammed'
+p35
+aS'Lyme disease'
+p36
+aS'American Girl dolls'
+p37
+aS'Kurt Weill'
+p38
+aS'House of Chanel'
+p39
+aS'British American Tobacco (BAT)'
+p40
+aS'Buffalo Soldiers'
+p41
+aS'2005 DARPA Grand Challenge'
+p42
+aS'2005 presidential election in Egypt'
+p43
+aS'2005 World Snooker Championships'
+p44
+aS'Teenage Mutant Ninja Turtles (TMNT)'
+p45
+aS'marsupials'
+p46
+aS'kumquat'
+p47
+aS'Ayn Rand'
+p48
+aS'Alan Greenspan'
+p49
+aS'Mahmud (or Mahmood, Mahmoud) Ahmadinejad'
+p50
+aS'Rafik Hariri, former Lebanese Prime Minister'
+p51
+aS'FISA Court'
+p52
+aS'Israel evacuation of the Gaza Strip'
+p53
+aS'Pakistan earthquakes of October 2005'
+p54
+aS'The Mars rovers, Spirit and Opportunity'
+p55
+aS'Jon Bon Jovi'
+p56
+aS'Barack Obama'
+p57
+aS'Rush Limbaugh'
+p58
+aS'Exxon Mobile Corp'
+p59
+aS'Dixie Chicks'
+p60
+aS'B-17 bomber'
+p61
+aS'Boeing 777 aircraft'
+p62
+aS"St. Peter's Basilica"
+p63
+aS'Australian wine'
+p64
+aS'Angkor Wat temples'
+p65
+aS'Joseph Steffen'
+p66
+aS'Orhan Pamuk'
+p67
+aS'Habitat for Humanity'
+p68
+aS'CAFTA approval by U.S. Congress'
+p69
+aS'Yeti'
+p70
+a.
